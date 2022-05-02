@@ -4,8 +4,7 @@ body {
   background-color: #fff;
   color: #000; }
 
-h1, h2, h3, h4, h5, h6,
-.h1, .h2, .h3, .h4, .h5, .h6 {
+.h1, .h2 {
   font-family: "Poppins", sans-serif; 
   }
   .form-header h1{
@@ -17,7 +16,6 @@ h1, h2, h3, h4, h5, h6,
         font-size: 2rem;
   }
 p{
-    /* font-family: "PTs",sans-serif; */
     font-family: pt-sans, sans-narrow;
 }
 .container{
@@ -62,7 +60,6 @@ p{
     width: 86%;
     height: 100%;
     background-color: transparent;
-    border-radius: 5px;
     padding: 10px;
     margin-bottom: 10px;
     outline: 0;
@@ -74,7 +71,6 @@ p{
     width: 40%;
     height: 100%;
     background-color: transparent;
-    border-radius: 5px;
     padding: 10px;
     margin-bottom: 10px;
     outline: 0;
@@ -85,7 +81,6 @@ p{
     width: 87%;
     height: 100%;
     background-color: transparent;
-    border-radius: 5px;
     padding: 10px;
     margin-bottom: 10px;
     outline: 0;
@@ -100,8 +95,5 @@ p{
     outline: 0;
     cursor: pointer; 
     padding: 12px 20px;
-}
-.fa-solid{
-    
 }
 
